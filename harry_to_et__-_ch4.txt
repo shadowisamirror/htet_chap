@@ -1,0 +1,105 @@
+[SYSTEM; name=Narrator]: *The rest of the afternoon was spent with Harry eagerly absorbing Andromeda's insights into the intricate world of wand magic, despite the restriction of not being able to practice within the confines of Gringotts. Her words painted vivid images of spells and incantations, filling Harry's mind with a longing for the freedom to truly explore her newfound heritage.*
+
+[SYSTEM; name=Narrator]: *The rest of the afternoon was spent with Harry eagerly absorbing Andromeda's insights into the intricate world of wand magic, despite the restriction of not being able to practice within the confines of Gringotts. Her words painted vivid images of spells and incantations, filling Harry's mind with a longing for the freedom to truly explore her newfound heritage.*
+
+[SYSTEM; name=Narrator]: *Over the next two days, Harry and Andromeda delve deep into 
+the book for hogwarts . They studied everything from the basics of charm casting to care of magical creatures Andromeda even rune as extracurricular activities . Andromeda's passion for the subject was infectious, and Harry found themselves hanging onto every word, her eyes lighting up with understanding and wonder.*
+
+[SYSTEM; name=Andromeda tonks]: -"Harry, dear," Andromeda spoke gently, *her voice resonating with the warmth of a mother's care.* 
+-"I had a conversation with Grimbold earlier today, and he suggested that a change of scenery would do us all some good. You've come such a long way with controlling your magic, and I believe it's time for you to step outside these walls and breathe in the fresh air. Plus, I know someone who might be able to offer invaluable advice on mastering your Metamorphomagus abilities." She paused, *a knowing smile playing on her lips.* "What do you say to joining me for lunch at my home tomorrow?."
+
+[AI]: "Oh, you mean your daughter, right?" Harry asked, *looking up from the tome she was studying. Her eyes searched Andromeda's, Her curiosity was piqued, eager to learn more about the family of this woman who had taken her under her wing.* "What's she like?"
+
+[SYSTEM; name=Andromeda tonks]: "Don't worry, Harry," Andromeda assured her with a gentle smile. "Nymphadora's a lovely girl. I'm sure you'll get along splendidly. And before we go, I think it's high time for a shopping trip in the morning. You've been wearing the same robes since you arrived, it's important to have something that makes you feel more... like yourself."
+*She nodded towards the pile of garments on the bed, which Harry recognized as the ones she had been given by Andromeda.* "But those were merely a temporary solution. It's time for something new, something that truly represents the person you are becoming."
+
+[AI]: "A shopping trip?" *Harry groaned inwardly, her stomach doing a flip at the thought of the chaos that usually accompanied such an outing. But the allure of leaving the confines of the infirmary, even if just for a little while, and the growing trust she felt for Andromeda won out over her anxiety.*
+-"Okay," she said with a small smile, *trying to keep her nerves in check.* "But just remember, I'm not much for... you know, *girly* things." *Her voice trailed off as she fingered the edge of her pillow, feeling a mix of excitement and trepidation.* "But I guess a change of scenery could be nice."
+
+[SYSTEM; name=Narrator]: *An hour later, a knock echoed through the chamber door. It swung open to reveal Brodkrat, the goblin who had been a constant presence since Harry's arrival at Gringotts. He nodded curtly to Andromeda before his gaze fell upon Harry,*  "Hello, Miss Potter," he rumbled in his gruff yet oddly comforting voice. "I see you've found something suitable for your feet?" *His beady eyes twinkled with a hint of amusement.* 
+
+[AI]: "Couldn't go kick some butt without shoes, right?" *Harry quipped. She  had much practice with sarcasm with the dursley but friendly banter was new for her , and she felt a strange kinship with this goblin who seemed to like her humour.*
+
+[SYSTEM; name=Narrator]: "Miss Potter," Brodkrat began, his expression shifting to one of professionalism. "I've come to inform you of the results of our inquiry into your stewart's conduct and the management of the Potter account. Firstly," *his voice grew softer, a hint of something like regret seeping through his gruff exterior,* "Gringotts Wizarding Bank, and I personally, would like to offer our sincerest apologies for the treatment you received from Mr. Graglast. His behavior was unacceptable, and we assure you that appropriate measures have been taken to prevent such occurrences in the future." *With a slight bow of his head,*
+
+[AI]: "Don't worry," Harry said with a nonchalant shrug, her eyes never leaving Brodkrat's. "As long as he doesn't bother me again, I couldn't care less what happens to him." *Her voice had an edge of defiance, a reminder of the fiery spirit that had carried her through her life thus far.*
+
+[SYSTEM; name=Andromeda tonks]: *Andromeda couldn't help but gasp at Brodkrat's words, a hand flying to her mouth. She knew the seriousness of the situation but face palm at Harry's unabashed nonchalance.  her voice barely a whisper.* "that girl really needs to study more politics if she wants to navigate the world without causing a stir." 
+
+[SYSTEM; name=Narrator]: *A creepy smile grew on Brodkrat's face, his eyes glinting with a hint of mischief.* "Miss Potter, don't fret about Mr. Graglast," he assured her. "His contract has been terminated. But, I've come with more news. It appears we've uncovered another piece of information concerning your guardianship, it's outside the purview of Gringotts to act on it, but it would greatly help us if he could sign legal form on your behalf...Legally and magically speaking, It turns out that your guardian  is your godfather.."
+
+[SYSTEM; name=Andromeda tonks]: *Her legs buckled beneath her and she crumpled to the floor, a hand pressed to her chest as if to hold her racing heart in place. Her face a tumult of emotions - disbelief, fear, anger, hope - as the revelation of Harry's true guardianship hit her like a tsunami.*
+-"What...what do you mean?" she stuttered, *her voice trembling with the weight of the implications.* "Sirius...Sirius Black?" *The name hung in the air, charged with the electricity of a secret long hidden. She felt the room spin around her as she tried to process the news.*
+-"But, how can it be?" she murmured, *eyes wide and searching, her mind racing with thoughts of the implications this could have for Harry's future.*
+
+[AI]: "Hold up, what's this about a godfather?" *Harry's voice was a mix of bewilderment and apprehension. Her eyes darted between Andromeda and Brodkrat, trying to piece together this unexpected puzzle.* 
+-"You guys have been pretty tight-lipped about it, and now you're just dropping it like it's nothing." *Her tone was serious, hinting at the fear of the unknown.* "Could you fill me in?" *Her eyes searched Andromeda's face, looking for a hint of the truth in the woman who had become like a mother figure to her in such a short time.* "Why is it such a big deal?"
+
+[SYSTEM; name=Narrator]: "Miss Potter," Brodkrat began, his voice tinged with a hint of sympathy. "We had not discussed this earlier as it was not a pressing concern, and we did not wish to overburden you during your healing process. However, we have now received verification that your godfather, Sirius Black, is indeed your legal guardian. This information is significant, and it is vital that we proceed with caution. Would either of you care for a calming draught before we delve further into this matter?" *His expression was one of solemn understanding, his gaze lingering on Andromeda, who was visibly struggling to keep her composure.*
+
+[SYSTEM; name=Andromeda tonks]: "Yes, we'll take one, please." *She said with a trembling in her voice.* "Harry, you'll need one, trust me" 
+
+[SYSTEM; name=Narrator]: *Brodkrat nodded and a nurse swiftly entered the chamber, carrying a tray with two small vials of potion. She handed one to Andromeda, who took it with a shaky hand and downed it immediately, her features visibly relaxing as the liquid worked its magic. Harry, still processing the revelation, took the second vial with less enthusiasm. She eyed it warily before tilting her head back and swallowing the potion in one go. She grimaced at the taste, a peculiar blend of mint and something she couldn't quite put her finger on. Almost immediately, a warmth spread through her, easing the tension that had coiled around her like a snake. She looked at Brodkrat, waiting for him to explain further.*
+
+[SYSTEM; name=Narrator]: "Miss Potter," Brodkrat began, his expression solemn. "In the wizarding world, a godfather's role is not merely symbolic. It is a magical bond forged by the most profound love and trust. When the bond is formed, the godfather makes a magical vow that is inviolate. He cannot, by any means, bring harm to his charge, or allow harm to come to pass through his own actions or inactions. The magic within this bond is so potent that it would rebel against him if he were to attempt such a betrayal." *He paused, allowing the gravity of his words to sink in.*
+-"We have verified the integrity of this bond between you and Mr. Black. Despite his... unfortunate circumstances, the protection remains steadfast." *Brodkrat's gaze flickered to Andromeda, who had paled at the mention of Sirius Black.* 
+-"This bond is not just a legal technicality; it is a declaration of love and protection. It means that even if he cannot be with you in in you moment of need, it'll hurt him."
+
+[AI]: *Even under the soothing embrace of the calming draught, a tempest of emotions swirled within Harry. Her eyes filled with unshed tears, and she clenched her fists.* "Are you telling me," she began, her voice trembling with a mix of anger and disbelief, "that there's someone out there who actually loves me, wants to protect me, and I've been living with those... those... People all these years?" *Her gaze drifted to the ceiling, thoughts of her aunt and uncle's cruelty. Her voice grew stronger, a hint of defiance creeping in.* "But why didn't anyone tell me?" *Her eyes searched Andromeda's, desperate for an answer.* "I had to find out like this? It's not fair!"
+
+[SYSTEM; name=Narrator]: Brodkrat took a deep breath, his hand steadying as he reached out to gently pat Harry's arm. "Miss Potter, please," he urged, his tone soothing yet firm. "The situation is indeed intricate, and fraught with deception. Your godfather, Sirius Black, is currently incarcerated within the walls of Azkaban, the wizarding prison." *He paused, watching as the color drained from Harry's face.* "He's been vilified, accused of betraying your parents to Voldemort and of committing the heinous murder of twelve Muggles. It's a story woven with lies, a tragic tapestry that has painted him as a villain in the eyes of many." *The silence in the room was palpable as Brodkrat allowed the weight of his words to settle.*
+
+[AI]: "Azk... Azk...b...but, why would anyone believe that?!" *Harry's voice grew shrill with anger, her eyes locked onto Brodkrat's.* 
+-"My parents wouldn't have picked someone who'd do that to be my godfather!" *Her thoughts raced, trying to piece together the puzzle of her life. The words tumbled out of her mouth, raw and unfiltered.* 
+-"What's going on here? Why are you telling me this now?" *Her gaze shifted to Andromeda, who was watching her with a mix of pity and something Harry couldn't quite identify.* 
+-"You knew, didn't you?" *Her accusation hung in the air, heavy as a stone. The magic in the room grew thicker as her temper grew and the rune of her forehead glow slightly*
+
+[SYSTEM; name=Narrator]: Brodkrat's eyes grew serious as he addressed Harry's accusation. "Miss Potter, calm yourself," he said firmly yet gently.
+-"We have reason to believe that Sirius is innocent of the crimes attributed to him. The bond of love and protection that exists between a godparent and their charge is not something to be taken lightly." *He paused, allowing his words to resonate.* 
+-"It is an ancient and powerful magic that would have prevented him from betraying you to Voldemort, had he truly intended to do so. It appears that he has been a victim of a terrible miscarriage of justice. In our investigations, we've uncovered that he's been held without trial for ten years"
+
+[AI]: "What?!" *Harry's shout echoed off the stone walls, her fists clenching at her sides. The rune on her forehead pulsed with a fiery anger, sending a black ooze seeping from its edges like a living tattoo. The furniture in the room groaned and shifted as if caught in a sudden gust of wind.*
+-"But, why? Why would they do that to him?" *Her eyes searched Andromeda's, desperate for some semblance of understanding.*
+-"This doesn't make any sense!" *Her voice cracked with emotion, a young girl's anguish at the unfairness of the world she had been thrust into.* 
+
+[SYSTEM; name=Narrator]: *As Harry's distress grew palpable, Brodkrat quickly called for a nurse, noticing the dark ooze spreading from her forehead rune. The nurse, moving with practiced efficiency, approached Harry, her hands steady despite the palpable tension in the room.*
+-"Miss Potter," she murmured, her tone soothing. "Let me help you." *She gently wiped the black substance away with a soft cloth, revealing the now-dormant protection rune beneath. The room's atmosphere seemed to lighten slightly as the dark magic retreated. With a warm smile, she offered Harry another calming draught.* "Drink this, dear. It will help you to process everything."
+*Andromeda watched the scene unfold before her, still reeling from the revelation. Despite her own tumultuous emotions, she knew she had to be there for Harry, to help her navigate the storm of her shattered world.*
+-"Harry," she said softly,* reaching out a trembling hand*, "I'm here. We'll figure this out together." *Her voice was a lifeline thrown into the chaotic sea of Harry's thoughts.*
+
+[SYSTEM; name=Narrator]: "On a final note, Miss Potter," Brodkrat interjected, *his gaze lingering on Harry's troubled expression,*
+-"I have debriefed my supervisor regarding the gravity of your situation and the complexities that continue to unfold. Given the seriousness  of different matters we are monitoring, he has requested to speak with you personally. You are scheduled for an interview tomorrow before you depart from our care." 
+*With a nod to Andromeda, acknowledging the gravity of the situation, he turned to leave.* "Rest well and stay safe, Miss Potter." *The door closed with a soft click behind him, leaving Harry and Andromeda in a silence.*
+
+[SYSTEM; name=Andromeda tonks]: "I'm sorry you had to learn about this in such a way, Harry," *Andromeda whispered, her eyes brimming with compassion as she took Harry's hand in hers. She gave it a gentle squeeze, hoping to offer some comfort to the girl who had just had her world upended.*
+
+
+[AI]: She slowly pulled her hand away, feeling overwhelmed by the sudden influx of information. She lay down on the bed and rolled onto her side, her eyes squeezed shut as she tried to process everything. The double dose of calming draught was starting to take its toll, making her feel dizzy and weary.*
+-"I just... I need some time to think," she managed to say, her voice trembling. "Please."
+
+[SYSTEM; name=Andromeda tonks]: *Andromeda nodded. She sat in silence, her quill poised above a parchment, as Harry's breathing grew shallower and more rhythmic. With each stroke, she meticulously recorded everything she could remember about Harry's godfather, Sirius Black. Her thoughts raced with the implications of what they had learned*
+
+[AI]: *The sound of a soft knock on the door startled Harry awake. She sat up groggily, the events of the evening swirling in her head like a confused dream.* 
+-"Come in," she called out,* her voice still thick with sleep. The door creaked open and in strode Grimbold, his expression a mix of curiosity and concern.*
+-"It seems you've been quite the spectacle, Miss Potter," he said, *approaching the bed with a gentle smile. He began to examine her, his eyes scrutinizing the rune on her forehead that had been the center of their earlier distress.* 
+-"How are you feeling?" he asked, his gruff voice belying the tenderness of his touch.
+
+[AI]: "I'm sleepy and hungry," Harry replied, her voice a hoarse whisper as she rubbed the sleep from her eyes. "Otherwise, I think I'm good." *Her gaze darted around the room, the weight of the revelation about Sirius Black still heavy on her shoulders.* 
+
+[SYSTEM; name=Narrator]: "Miss Potter," Grimbold said gravely, *his eyes never leaving hers as he finished his examination.* 
+-"From a medical standpoint, what occurred earlier was precarious. Your magic is still volatile, and pushing it could have led to severe consequences. Yet," *his tone softened, a hint of admiration creeping in,* "you managed to purge the malevolent influence within the rune." 
+*He sighed heavily, his expression contemplative.* "While the immediate danger has passed, We must tread carefully to ensure your safety and stability." *With a final pat on her arm, he stepped back, allowing her to absorb his words.*
+
+[SYSTEM; name=Narrator]: "In light of today's events, Miss Potter," Grimbold began, *his gaze thoughtful as he folded his arms across his chest.*
+-"Given the volatile nature of your magic, I'm  inclined that we keep you under closer observation tomorrow." *He paused, allowing the gravity of his words to sink in.* 
+-"This means your shopping trip will have to be postponed. However, I assure you, we will not keep you confined without cause. We simply need to ensure that you're in the best possible condition before we proceed with any plans. Your well-being is our utmost priority." *He offered a reassuring smile, though his eyes remained sharp, watching for any signs of distress or protest.* "Do you understand?"
+
+[AI]: "I guess," Harry mumbled, her eyes dropping to the bedcovers. *She felt a pang of disappointment at the thought of missing out on meeting Andromeda's family and 
+but happy to give the shopping trip a miss.* "But I'm okay, really," she protested weakly, not meeting Grimbold's gaze.
+
+[SYSTEM; name=Narrator]: "Good," Grimbold said, his tone firm but not unkind. "Now, take this nutritious potion. It's tailored to satiety your appetite." *He handed her a steaming cup with a peculiar aroma that indeed hinted at a blend of tomato sauce, cheese, and herbs.* 
+-"And try to get some sleep. You'll need your wits about you in the morning." *With a final nod, he turned to leave, his heavy footsteps echoing in the quiet room as the door clicked shut behind him.*
+
+[AI]: *Harry took a deep breath, feeling the weight of the conversation with Brodkrat and Andromeda still  heavy upon her chest. Her eyes fell on the letter that had been left for her, curiosity piqued.  She sat up carefully, the calming draughts still coursing through her veins, and reached for the parchment. Her heart fluttered as she unfolded the note, revealing Andromeda's neat script. It was a short message, but it was filled with warmth and concern.*
+
+[SYSTEM; name=Andromeda tonks]: "Harry," the letter began, "I'm so sorry you had to find out about Sirius like that. It's a lot to take in, I know." *Her handwriting was elegant and flowing, each stroke carrying the weight of her apology.* "I wanted to wait just a few more days before telling you, but it seems fate had other plans. I've learned of his innocence as well, and I'm just as shocked as you must be." *The ink was slightly smudged, as if she had written it in a hurry.* "If you wish to talk, I'll be here for you tomorrow. You looked so peaceful when you fell asleep, I didn't have the heart to wake you. Please, rest tonight and we'll speak more when you're ready. Take care of yourself, my dear. - Your cousin, Andy" *The letter ended with a soft, reassuring signature.*
